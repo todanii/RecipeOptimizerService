@@ -19,7 +19,6 @@ namespace RecipeOptimizerServiceUnitTests.RecipeTests
         [Fact]
         public void CalculateMaxPeopleFed_ShouldReturnCorrectResult_WhenRepositoryReturnsData()
         {
-            // Arrange
             var recipes = new List<Recipe>
             {
                 new Recipe("Burger", 1, new List<Ingredient>
@@ -66,7 +65,6 @@ namespace RecipeOptimizerServiceUnitTests.RecipeTests
         [Fact]
         public void CalculateMaxPeopleFed_ShouldReturnZero_WhenNoValidCombinations()
         {
-            // Arrange: No ingredients available
             var recipes = new List<Recipe>
             {
                 new Recipe("Pizza", 4, new List<Ingredient>
@@ -77,19 +75,16 @@ namespace RecipeOptimizerServiceUnitTests.RecipeTests
                     new Ingredient("Olives", 1 )
                 })
             };
-            var ingredients = new List<Ingredient>();  // Empty list, no ingredients available
+            var ingredients = new List<Ingredient>();  
 
             _repositoryMock.Setup(r => r.GetRecipes()).Returns(recipes);
             _repositoryMock.Setup(r => r.GetAvailableIngredients()).Returns(ingredients);
 
-            // Act
             var result = _service.CalculateMaxPeopleFed();
 
-            // Assert
             Assert.Equal(0, result.TotalPeopleFed);
             Assert.Empty(result.FoodCombinations);
 
-            // Verify the mock methods were called
             _repositoryMock.Verify(r => r.GetRecipes(), Times.Once);
             _repositoryMock.Verify(r => r.GetAvailableIngredients(), Times.Once);
         }
@@ -97,7 +92,6 @@ namespace RecipeOptimizerServiceUnitTests.RecipeTests
         [Fact]
         public void CalculateMaxPeopleFed_ShouldReturnCorrectResult_WhenRepositoryReturnsData2()
         {
-            // Arrange
             var recipes = new List<Recipe>
             {
                 new Recipe("Pie", 2, new List<Ingredient>
