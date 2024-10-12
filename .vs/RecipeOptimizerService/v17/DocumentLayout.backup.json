@@ -1,0 +1,149 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\CP364202\\source\\repos\\RecipeOptimizerService\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{477805D3-4A43-4100-BB63-A5CC8A625A8D}|..\\RecipeOptimizerServiceUnitTests\\RecipeOptimizerServiceUnitTests.csproj|c:\\users\\cp364202\\source\\repos\\recipeoptimizerserviceunittests\\recipetests\\recipeservicetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A03CCDE4-2B8C-415E-805A-34E4E44D95CA}|RecipeOptimizerService.csproj|c:\\users\\cp364202\\source\\repos\\recipeoptimizerservice\\services\\recipeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A03CCDE4-2B8C-415E-805A-34E4E44D95CA}|RecipeOptimizerService.csproj|solutionrelative:services\\recipeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A03CCDE4-2B8C-415E-805A-34E4E44D95CA}|RecipeOptimizerService.csproj|c:\\users\\cp364202\\source\\repos\\recipeoptimizerservice\\controllers\\recipecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A03CCDE4-2B8C-415E-805A-34E4E44D95CA}|RecipeOptimizerService.csproj|solutionrelative:controllers\\recipecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A03CCDE4-2B8C-415E-805A-34E4E44D95CA}|RecipeOptimizerService.csproj|c:\\users\\cp364202\\source\\repos\\recipeoptimizerservice\\repositories\\reciperepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A03CCDE4-2B8C-415E-805A-34E4E44D95CA}|RecipeOptimizerService.csproj|solutionrelative:repositories\\reciperepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A03CCDE4-2B8C-415E-805A-34E4E44D95CA}|RecipeOptimizerService.csproj|c:\\users\\cp364202\\source\\repos\\recipeoptimizerservice\\repositories\\ireciperepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A03CCDE4-2B8C-415E-805A-34E4E44D95CA}|RecipeOptimizerService.csproj|solutionrelative:repositories\\ireciperepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A03CCDE4-2B8C-415E-805A-34E4E44D95CA}|RecipeOptimizerService.csproj|c:\\users\\cp364202\\source\\repos\\recipeoptimizerservice\\models\\ingredient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A03CCDE4-2B8C-415E-805A-34E4E44D95CA}|RecipeOptimizerService.csproj|solutionrelative:models\\ingredient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{13b12e3e-c1b4-4539-9371-4fe9a0d523fc}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0174dea2-fdbe-4ef1-8f99-c0beae78880f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "RecipeServiceTests.cs",
+              "DocumentMoniker": "C:\\Users\\CP364202\\source\\repos\\RecipeOptimizerServiceUnitTests\\RecipeTests\\RecipeServiceTests.cs",
+              "RelativeDocumentMoniker": "..\\RecipeOptimizerServiceUnitTests\\RecipeTests\\RecipeServiceTests.cs",
+              "ToolTip": "C:\\Users\\CP364202\\source\\repos\\RecipeOptimizerServiceUnitTests\\RecipeTests\\RecipeServiceTests.cs",
+              "RelativeToolTip": "..\\RecipeOptimizerServiceUnitTests\\RecipeTests\\RecipeServiceTests.cs",
+              "ViewState": "AgIAAEEAAAAAAAAAAAAAADoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-12T03:39:36.358Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "RecipeController.cs",
+              "DocumentMoniker": "C:\\Users\\CP364202\\source\\repos\\RecipeOptimizerService\\Controllers\\RecipeController.cs",
+              "RelativeDocumentMoniker": "Controllers\\RecipeController.cs",
+              "ToolTip": "C:\\Users\\CP364202\\source\\repos\\RecipeOptimizerService\\Controllers\\RecipeController.cs",
+              "RelativeToolTip": "Controllers\\RecipeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAA9AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-12T03:25:04.685Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "RecipeService.cs",
+              "DocumentMoniker": "C:\\Users\\CP364202\\source\\repos\\RecipeOptimizerService\\Services\\RecipeService.cs",
+              "RelativeDocumentMoniker": "Services\\RecipeService.cs",
+              "ToolTip": "C:\\Users\\CP364202\\source\\repos\\RecipeOptimizerService\\Services\\RecipeService.cs",
+              "RelativeToolTip": "Services\\RecipeService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-12T03:20:30.139Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "RecipeRepository.cs",
+              "DocumentMoniker": "C:\\Users\\CP364202\\source\\repos\\RecipeOptimizerService\\Repositories\\RecipeRepository.cs",
+              "RelativeDocumentMoniker": "Repositories\\RecipeRepository.cs",
+              "ToolTip": "C:\\Users\\CP364202\\source\\repos\\RecipeOptimizerService\\Repositories\\RecipeRepository.cs",
+              "RelativeToolTip": "Repositories\\RecipeRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-12T03:12:26.733Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "IRecipeRepository.cs",
+              "DocumentMoniker": "C:\\Users\\CP364202\\source\\repos\\RecipeOptimizerService\\Repositories\\IRecipeRepository.cs",
+              "RelativeDocumentMoniker": "Repositories\\IRecipeRepository.cs",
+              "ToolTip": "C:\\Users\\CP364202\\source\\repos\\RecipeOptimizerService\\Repositories\\IRecipeRepository.cs",
+              "RelativeToolTip": "Repositories\\IRecipeRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAYAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-12T03:11:32.94Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Ingredient.cs",
+              "DocumentMoniker": "C:\\Users\\CP364202\\source\\repos\\RecipeOptimizerService\\Models\\Ingredient.cs",
+              "RelativeDocumentMoniker": "Models\\Ingredient.cs",
+              "ToolTip": "C:\\Users\\CP364202\\source\\repos\\RecipeOptimizerService\\Models\\Ingredient.cs",
+              "RelativeToolTip": "Models\\Ingredient.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-12T03:09:51.354Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

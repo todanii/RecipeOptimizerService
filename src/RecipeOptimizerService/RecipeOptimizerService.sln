@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35312.102
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RecipeOptimizerService", "RecipeOptimizerService.csproj", "{A03CCDE4-2B8C-415E-805A-34E4E44D95CA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RecipeOptimizerServiceUnitTests", "..\RecipeOptimizerServiceUnitTests\RecipeOptimizerServiceUnitTests.csproj", "{477805D3-4A43-4100-BB63-A5CC8A625A8D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A03CCDE4-2B8C-415E-805A-34E4E44D95CA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A03CCDE4-2B8C-415E-805A-34E4E44D95CA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A03CCDE4-2B8C-415E-805A-34E4E44D95CA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A03CCDE4-2B8C-415E-805A-34E4E44D95CA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{477805D3-4A43-4100-BB63-A5CC8A625A8D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{477805D3-4A43-4100-BB63-A5CC8A625A8D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{477805D3-4A43-4100-BB63-A5CC8A625A8D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{477805D3-4A43-4100-BB63-A5CC8A625A8D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {561174E2-F99B-4FB3-81AE-66885C76A93A}
+	EndGlobalSection
+EndGlobal
